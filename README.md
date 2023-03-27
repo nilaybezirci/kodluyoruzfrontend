@@ -1,3 +1,3 @@
 # kodluyoruzfrontend 
-patika frontend eğitiminde yapılan projeler
+patika frontend eğitiminde yapılan çalışmalar
 https://app.patika.dev/nilaybezirci
