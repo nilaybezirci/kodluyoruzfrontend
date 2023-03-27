@@ -3,12 +3,13 @@
   margin-top: 200px;
 }
 .search {
-  width: auto;
+  width: 1300px;
   height: 67px;
   background-color: #eeeeee;
+  margin-left: 80px;
 }
 .yazi {
-  margin-left: 660px;
+  margin-left: 580px;
   font-size: 20px;
 
   height: 0;
@@ -22,6 +23,7 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  margin-left: -80px;
 }
 span,
 #saveServer {
@@ -47,9 +49,10 @@ span,
 
 .box1 {
   background-color: #8deeee;
-  width: 500px;
+  width: 400px;
   height: 100px;
   margin-top: -10px;
+  margin-left: 80px;
 }
 .linktext {
   text-align: center;
@@ -57,16 +60,16 @@ span,
 }
 .box2 {
   height: 100px;
-  width: 400px;
+  width: 300px;
   background-color: #79cdcd;
-  margin-left: 505px;
+  margin-left: 487px;
   margin-top: -100px;
 }
 .box3 {
   height: 100px;
-  width: 580px;
+  width: 584px;
   background-color: #528b8b;
-  margin-left: 910px;
+  margin-left: 796px;
   margin-top: -115px;
 }
 .searchbar2 {
