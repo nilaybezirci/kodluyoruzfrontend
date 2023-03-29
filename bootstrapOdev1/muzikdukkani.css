@@ -1,0 +1,35 @@
+.display-4 {
+  color: red;
+  text-align: center;
+}
+.baslik {
+  color: #ebb02d;
+  text-align: center;
+}
+.lijum {
+  margin-left: 650px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.btn {
+  margin-left: 650px;
+}
+body {
+  background-color: #e9ecef;
+}
+
+.urunbaslik {
+  margin-left: 650px;
+  margin-top: 10px;
+}
+.caed-img-top {
+  width: 300px;
+  height: 300px;
+}
+.urunbgc {
+  background-color: #ffdeb4;
+}
+.hakkimizdabaslik {
+  color: brown;
+  margin-left: 650px;
+}
