@@ -1,0 +1,15 @@
+.avatar {
+  height: 125px;
+  width: 125px;
+  border-radius: 100%;
+}
+.post-icerik {
+  background-color: darkgray;
+  height: 250px;
+}
+
+.footer-row {
+  height: 200px;
+  padding-top: 20px;
+  background-color: #dddddd;
+}
